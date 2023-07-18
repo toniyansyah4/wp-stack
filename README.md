@@ -9,3 +9,7 @@ Instally in local : <br>
 8. npm install <br>
 9. npm run build <br>
 10. npm run dev <br>
+
+Information :
+
+Task 1 and Task 2 is syncronize
